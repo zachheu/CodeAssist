@@ -1,4 +1,4 @@
-name: Android CI
+name: Build Massive APK
 
 on:
   pull_request:
